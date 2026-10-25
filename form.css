@@ -1,15 +1,10 @@
-/* =========================================================
-   Feedback form styles (uses the tokens from style.css)
-   Load this file AFTER style.css
-   ========================================================= */
+
 
 .form-intro {
   margin: -12px 0 28px;
   color: var(--ink-soft);
   max-width: 34em;
 }
-
-/* Form card, like the complaint slips on the board */
 .feedback-form {
   max-width: 720px;
   padding: 10px 36px 36px;
